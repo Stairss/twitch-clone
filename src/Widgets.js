@@ -6,8 +6,6 @@ import {
 } from 'react-twitter-embed';
 import SearchIcon from '@material-ui/icons/Search';
 const Widgets = () => {
-    console.log(Math.random());
-
     return (
         <div className="widgets">
             <div className="widgets__input">
